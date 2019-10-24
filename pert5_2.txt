@@ -1,0 +1,52 @@
+== RESTART: C:/Users/student/AppData/Local/Programs/Python/Python37/vita.py ==
+    ==================================    
+    Welcome to this simple ATM machine    
+    ==================================    
+    Please select ATM Transactions    
+
+[1]     Deposit
+[2]     Withdraw
+[3]     Balance Inquiry
+[4]     Exit
+
+
+
+What would you like to do? 1
+Balance  £  500
+Enter the amount of money to deposit: 100
+Forewardbalance  £  600.0
+>>> 
+== RESTART: C:/Users/student/AppData/Local/Programs/Python/Python37/vita.py ==
+    ==================================    
+    Welcome to this simple ATM machine    
+    ==================================    
+    Please select ATM Transactions    
+
+[1]     Deposit
+[2]     Withdraw
+[3]     Balance Inquiry
+[4]     Exit
+
+
+
+What would you like to do? 2
+Balance  £   500
+Enter amount of money to withdraw: 150
+Foreward Balance  £  350.0
+>>> 
+== RESTART: C:/Users/student/AppData/Local/Programs/Python/Python37/vita.py ==
+    ==================================    
+    Welcome to this simple ATM machine    
+    ==================================    
+    Please select ATM Transactions    
+
+[1]     Deposit
+[2]     Withdraw
+[3]     Balance Inquiry
+[4]     Exit
+
+
+
+What would you like to do? 3
+Balance  £  500
+>>> 
