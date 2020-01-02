@@ -1,0 +1,23 @@
+class Pegawai(object)
+	def__init__(self, nama, usia, jabatan);
+		self.nama = nama
+		self.usia = usia
+		self.jabatan = jabatan
+
+	def berusia(self):
+		print("Pegawai berusia 20 tahun")
+
+penjelasan : diatas merupakan contoh class yaitu class pegawai dengan berisi objek nama kehadiran dan jabatan
+
+--------------------------------------------------------------
+
+class Set(Pegawai):
+	pass
+a = Set("Vita", "20", "admin perpustakaan")
+print()
+print("Nama :" a.nama)
+print("Usia :" a.usia)
+print("Jabatan :" a.jabatan)
+a.berusia()
+
+penjelasan : diatas merupakan kelas turunan, kelas Set merupakan kelas turunan dari kelas pegawai dimana objek yang ada pada kelas pegawai lebih detail lagi, maka diatas merupakan kelas turunan dari pegawai
